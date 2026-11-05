@@ -33,4 +33,3 @@ This parses source, verifies manifest hashes and local documentation links, and 
 Embedded signed URLs/credential literals are externalized into environment settings listed in each component's `.env.example`. Those files are inventories, not automatically loaded everywhere. Preserve current configuration through an approved secret-management process before attempting a deployment. Do not deploy this scrubbed copy over a running installation without restoring and validating its configuration.
 
 Source import baseline: [6e355a6](https://github.com/terbe2022/legislation-intelligence-IGPA/commit/6e355a65eebd25cbc2ad8166f270cf63f142a1e9). Documentation consolidation is committed separately.
-
