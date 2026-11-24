@@ -2,7 +2,7 @@
 
 A source-based handoff for a legislative document pipeline, Streamlit application and Azure Functions. It explains the implementation end to end without distributing production documents, user records or credentials.
 
-Start with the [system guide and architecture](docs/SYSTEM_GUIDE.md) or the [five-page architecture overview](docs/Legislative_Intelligence_System_Overview.pdf). Use the [operator runbook](docs/OPERATIONS.md) for setup, updates, troubleshooting and recovery. The [source manifest](docs/SOURCE_MANIFEST.json) records provenance, scrubbing and exclusions; the [knowledge index](docs/knowledge-index.json) points future question-answering tools at those canonical documents.
+Continuing the work? Read the [handoff](docs/HANDOFF.md) first. Start with the [system guide and architecture](docs/SYSTEM_GUIDE.md) or the [five-page architecture overview](docs/Legislative_Intelligence_System_Overview.pdf). Use the [operator runbook](docs/OPERATIONS.md) for setup, updates, troubleshooting and recovery. The [source manifest](docs/SOURCE_MANIFEST.json) records provenance, scrubbing and exclusions; the [knowledge index](docs/knowledge-index.json) points future question-answering tools at those canonical documents.
 
 ## Repository layout
 

@@ -43,6 +43,16 @@
         "externalized configuration names"
       ],
       "access": "public-scrubbed"
+    },
+    {
+      "path": "docs/HANDOFF.md",
+      "topics": [
+        "current status",
+        "where active work is",
+        "private repository",
+        "next steps"
+      ],
+      "access": "public-scrubbed"
     }
   ],
   "answer_rules": [
